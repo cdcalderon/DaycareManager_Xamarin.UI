@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		     x:Class="DaycareManager.Kids">
+	<TabbedPage.Children>
+   <ContentPage Title="Kids">
+  <Label x:Name="myLabel" HorizontalOptions="Center" Text="{Binding KidName}"/>
+    <StackLayout Orientation="Vertical" VerticalOptions="Start">
+      <ActivityIndicator IsVisible="{Binding IsLoading}" IsRunning="{Binding IsLoading}" HorizontalOptions="CenterAndExpand" />
+
+      <ListView ItemsSource="{Binding Kids}" ItemTapped="Kid_Tapped">
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <TextCell Text="{Binding FirstName}" Detail="{Binding LastName}" />
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+  </ContentPage>
+
+    <ContentPage Title="Parents">
+      <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand">
+        <Label Text="Kids Parents"/>
+      </StackLayout>
+     </ContentPage>
+    </TabbedPage.Children>
+</TabbedPage>

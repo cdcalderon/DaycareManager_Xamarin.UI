@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="iOS/DaycareManager.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DaycareManager/Activities.xaml.cs">
+    <Files>
+      <File FileName="DaycareManager/DaycareManager.cs" Line="1" Column="1" />
+      <File FileName="DaycareManager/Activities.xaml" Line="1" Column="1" />
+      <File FileName="DaycareManager/Activities.xaml.cs" Line="23" Column="2" />
+      <File FileName="DaycareManager/ToDoItem.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

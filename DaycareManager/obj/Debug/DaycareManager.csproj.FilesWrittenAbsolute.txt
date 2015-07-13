@@ -1,0 +1,14 @@
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/obj/Debug/DaycareManager.Kids.xaml
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/obj/Debug/Kids.xaml.g.cs
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/Xamarin.Forms.Core.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/Newtonsoft.Json.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/System.Net.Http.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/System.Net.Http.Primitives.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/System.Net.Http.Extensions.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/DaycareManager.dll.mdb
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/bin/Debug/DaycareManager.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/obj/Debug/DaycareManager.dll
+/Users/cdcalderon/Desktop/XAMARIN PROJECTS/DaycareManager/DaycareManager/DaycareManager/obj/Debug/DaycareManager.dll.mdb
